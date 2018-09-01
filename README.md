@@ -5,7 +5,7 @@ GwG Udacity Project 3 FEND Arcade Game
 
 - This is a fun game to test your ability to move fast and avoid obstacles 
 - Click [HERE](https://goo.gl/j9FNQc) to play the game
-- To load the game locally: clone the repository and open index.html in a browser
+- To load the game locally: download/clone the repository and open index.html in a browser
 
 ![Arcade Game](images/ArcadeGame.JPG)
 
